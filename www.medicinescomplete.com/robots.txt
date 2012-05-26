@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /mc/stockley/current/interactions.htm
+Disallow: /mc/search.htm
+Disallow: /mc/stockley/current/search.htm
+Disallow: /mc/global.htm
