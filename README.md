@@ -1,7 +1,7 @@
 British National Formulary
 ==
 
-This is the raw HTML from the British National Formulary site, currently at version 63 (March 2012). Provided for research purposes only, or something like that.
+This is the raw HTML from the British National Formulary site, currently at version 63 (March 2012). Provided for research purposes only, or something like that. My tiny contribution to the [NHS Hack Day](http://nhshackday.com/)
 
 If you're not comfortable with using git, you can [download the files directly](https://github.com/tomtaylor/bnf-html/zipball/master).
 
