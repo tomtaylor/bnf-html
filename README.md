@@ -1,5 +1,10 @@
-How to scrape it
+British National Formulary
 ==
+
+This is the raw HTML from the British National Formulary site, currently at version 63. Provided for research purposes only, or something like that.
+
+How to scrape it
+--
 
     wget --load-cookies cookies.txt --mirror --no-parent --convert-links --page-requisites http://www.medicinescomplete.com/mc/bnf/current/
 
