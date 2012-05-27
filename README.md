@@ -3,6 +3,8 @@ British National Formulary
 
 This is the raw HTML from the British National Formulary site, currently at version 63 (March 2012). Provided for research purposes only, or something like that.
 
+The site starts at `www.medicinescomplete.com/mc/bnf/current/index.htm`.
+
 How to scrape it
 --
 
